@@ -1,6 +1,6 @@
 format_version: 10
 pipelines:
-  tools-tf-apply:
+  tools-apply:
     group: Terraform
     materials:
       git-da613e5:
